@@ -1,0 +1,13 @@
+/Users/jowen22/Documents/CSharp/NewAppCSharp1/obj/Debug/netcoreapp3.1/NewAppCSharp1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jowen22/Documents/CSharp/NewAppCSharp1/obj/Debug/netcoreapp3.1/NewAppCSharp1.AssemblyInfoInputs.cache
+/Users/jowen22/Documents/CSharp/NewAppCSharp1/obj/Debug/netcoreapp3.1/NewAppCSharp1.AssemblyInfo.cs
+/Users/jowen22/Documents/CSharp/NewAppCSharp1/obj/Debug/netcoreapp3.1/NewAppCSharp1.csproj.CoreCompileInputs.cache
+/Users/jowen22/Documents/CSharp/NewAppCSharp1/bin/Debug/netcoreapp3.1/NewAppCSharp1
+/Users/jowen22/Documents/CSharp/NewAppCSharp1/bin/Debug/netcoreapp3.1/NewAppCSharp1.deps.json
+/Users/jowen22/Documents/CSharp/NewAppCSharp1/bin/Debug/netcoreapp3.1/NewAppCSharp1.runtimeconfig.json
+/Users/jowen22/Documents/CSharp/NewAppCSharp1/bin/Debug/netcoreapp3.1/NewAppCSharp1.runtimeconfig.dev.json
+/Users/jowen22/Documents/CSharp/NewAppCSharp1/bin/Debug/netcoreapp3.1/NewAppCSharp1.dll
+/Users/jowen22/Documents/CSharp/NewAppCSharp1/bin/Debug/netcoreapp3.1/NewAppCSharp1.pdb
+/Users/jowen22/Documents/CSharp/NewAppCSharp1/obj/Debug/netcoreapp3.1/NewAppCSharp1.dll
+/Users/jowen22/Documents/CSharp/NewAppCSharp1/obj/Debug/netcoreapp3.1/NewAppCSharp1.pdb
+/Users/jowen22/Documents/CSharp/NewAppCSharp1/obj/Debug/netcoreapp3.1/NewAppCSharp1.genruntimeconfig.cache

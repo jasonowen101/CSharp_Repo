@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "yRQKcryGb3jyX5JxplqBIZwsvlPpeTHL2o43vXqhG1QDWID8IQCSqZhgJRa0Z0DKYnBxdVCs6BXOvC3CNOG2Eg==",
+  "success": true,
+  "projectFilePath": "/Users/jowen22/Documents/CSharp/NewAppCSharp1/NewAppCSharp1.csproj",
+  "expectedPackageFiles": [
+    "/Users/jowen22/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.10/microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "/Users/jowen22/.nuget/packages/microsoft.netcore.app.host.osx-x64/3.1.32/microsoft.netcore.app.host.osx-x64.3.1.32.nupkg.sha512"
+  ],
+  "logs": []
+}
